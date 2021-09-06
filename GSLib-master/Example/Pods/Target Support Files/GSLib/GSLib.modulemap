@@ -1,0 +1,6 @@
+framework module GSLib {
+  umbrella header "GSLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

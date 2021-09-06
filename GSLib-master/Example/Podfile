@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GSLib_Example' do
+  pod 'GSLib', :path => '../'
+
+  target 'GSLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

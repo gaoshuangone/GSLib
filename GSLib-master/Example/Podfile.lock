@@ -1,0 +1,23 @@
+PODS:
+  - GSLib (0.0.2):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - GSLib (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  GSLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GSLib: e0095d7c75aa0d4734b68f397f5997f475ee692e
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 69115442a1738061c38585d1473e4d9fd3561f53
+
+COCOAPODS: 1.6.0.beta.1
